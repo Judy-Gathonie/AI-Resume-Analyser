@@ -29,8 +29,8 @@ git clone https://github.com/Judy-Gathonie/AI-Resume-Analyser.git
 cd AI-Resume-Analyser
 pip install -r requirements.txt
 python App.py
-##
-## 🧪 How It Works
+
+🧪 How It Works
 
 1. User uploads their resume in PDF format.
 2. NLP extracts text, skills, and work experience.
